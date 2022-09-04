@@ -1,5 +1,19 @@
 # Spring-Boot-Example
-There are 2 projects communicating with each other. Every service has CRUD methods. Customers' products are procured from the product service.
+There are 2 projects communicating with each other. Customers' products are procured from the product service.
+
+## Customer Service
+- New customer can be created.
+- Customer can be deleted.
+- Customer can be updated.
+- Customer can be found by id.
+- Optionaly customer information can be filtered.
+
+## Product Service
+- New product can be created.
+- Product can be deleted.
+- Product can be updated.
+- Product can be found by id.
+- Optionaly product information can be filtered.
 
 
 ## Technologys
