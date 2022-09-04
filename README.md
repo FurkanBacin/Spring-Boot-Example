@@ -6,14 +6,14 @@ There are 2 projects communicating with each other. Customers' products are proc
 - Customer can be deleted.
 - Customer can be updated.
 - Customer can be found by id.
-- Optionaly customer information can be filtered.
+- Optional customer information can be filtered.
 
 ## Product Service
 - New product can be created.
 - Product can be deleted.
 - Product can be updated.
 - Product can be found by id.
-- Optionaly product information can be filtered.
+- Optional product information can be filtered.
 
 
 ## Technologys
